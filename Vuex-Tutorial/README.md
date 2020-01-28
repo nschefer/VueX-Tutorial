@@ -1,4 +1,4 @@
-# vuex-playlist
+# vuex-tutorial
 
 > A Vue.js project
 
